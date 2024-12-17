@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "_cgi-bin_mmwebwx-bin_webwxgetmsgimg??&MsgID=3567277802320178412&skey=@crypt_2e5ae38e_a219cbc22c51896b50457c6a1ac156fb&mmweb_appid=wx_webfilehelper.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
